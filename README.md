@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Burak İLDAM</h1>
-<h3 align="center">Ön Uç Geliştirici | React, TypeScript, NextJS | Ölçeklenebilir web uygulamaları oluşturma | React Native ve mobil geliştirmeyi öğrenin</h3>
+<h3 align="center">Front-End | Mobile App | React, TypeScript, NextJS | React Native </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakildam&label=Profile%20views&color=0e75b6&style=flat" alt="burakildam" /> </p>
 
